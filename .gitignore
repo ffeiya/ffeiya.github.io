@@ -1,5 +1,7 @@
+#hexo config file
 _config*
 package*
 scaffolds
 source
 themes
+node_modules
